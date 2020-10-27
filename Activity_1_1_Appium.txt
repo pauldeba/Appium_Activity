@@ -1,0 +1,14 @@
+List of Devices:
+adb devices
+
+Push:
+adb push <Source Path> <Destination Path>
+
+Pull:
+adb pull <File Path> <Destination Path>
+
+Install:
+adb install <APK file path>
+
+Reboot:
+adb reboot
